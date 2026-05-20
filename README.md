@@ -1,9 +1,13 @@
 # DeepSeek DeskBand
 
+<p align="right">
+  <img src="https://img.shields.io/badge/简体中文-当前-brightgreen?style=flat-square" alt="当前：简体中文" />
+  &nbsp;
+  <a href="README.en.md"><img src="https://img.shields.io/badge/English-Switch-blue?style=flat-square" alt="Switch to English" /></a>
+</p>
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-> **English** · [README.en.md](./README.en.md)
->
 > 本项目 Fork 自 [leidichen/DeepSeek-DeskBand](https://github.com/leidichen/DeepSeek-DeskBand)，在原版基础上进行功能增强，遵循 MIT License。
 >
 > 原项目所有代码均由 Github Copilot 使用 DeepSeek-V4 模型生成。
