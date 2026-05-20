@@ -16,7 +16,11 @@
 
 ## 任务栏效果
 
-![预览](preview.png)
+![](https://img.lenband.com/{year}/{month}/{md5}.{extName}/PixPin_2026-05-20_14-26-53-Topaz-Gigapixel-2x-比例.png)
+
+**状态栏效果**
+
+![](https://img.lenband.com/{year}/{month}/{md5}.{extName}/未标题-1-Topaz-Gigapixel-2x-比例.png)
 
 ## 一键编译安装
 
